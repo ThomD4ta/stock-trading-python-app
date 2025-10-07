@@ -1,0 +1,7 @@
+requests
+openai
+python-dotenv
+csv
+schedule
+snowflake-connector-python[pandas]==3.17.4
+pandas

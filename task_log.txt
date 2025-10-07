@@ -1,0 +1,1416 @@
+2025-09-29T12:36:10.691609 - 🚀 Job started at 2025-09-29 12:36:10.688240
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 12:36:10.883293
+🚀 Scheduled Task started at 2025-09-29 14:42:15.546508
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 14:42:15.710528
+🏁 Scheduled Task finished at 2025-09-29 14:42:15.712211
+🚀 Scheduled Task started at 2025-09-29 14:52:20.089950
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 14:52:20.494796
+🏁 Scheduled Task finished at 2025-09-29 14:52:20.497606
+🚀 Scheduled Task started at 2025-09-29 15:02:16.078591
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 15:02:16.240801
+🏁 Scheduled Task finished at 2025-09-29 15:02:16.241681
+🚀 Scheduled Task started at 2025-09-29 15:12:15.563738
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 15:12:15.720068
+🏁 Scheduled Task finished at 2025-09-29 15:12:15.720926
+🚀 Scheduled Task started at 2025-09-29 15:22:21.225894
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 15:22:21.431482
+🏁 Scheduled Task finished at 2025-09-29 15:22:21.432267
+🚀 Scheduled Task started at 2025-09-29 15:32:30.379775
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 15:32:30.584605
+🏁 Scheduled Task finished at 2025-09-29 15:32:30.585573
+🚀 Scheduled Task started at 2025-09-29 15:42:16.402350
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 15:42:16.630833
+🏁 Scheduled Task finished at 2025-09-29 15:42:16.631797
+🚀 Scheduled Task started at 2025-09-29 15:52:17.592485
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 15:52:17.773098
+🏁 Scheduled Task finished at 2025-09-29 15:52:17.773889
+🚀 Scheduled Task started at 2025-09-29 16:02:18.613495
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 16:02:18.901382
+🏁 Scheduled Task finished at 2025-09-29 16:02:18.902499
+🚀 Scheduled Task started at 2025-09-29 16:12:16.939694
+✅ Data written 11765 rows to tickers.csv at 2025-09-29 16:12:17.094251
+🏁 Scheduled Task finished at 2025-09-29 16:12:17.095283
+🚀 Scheduled Task started at 2025-09-29 16:22:23.716358
+🏁 Scheduled Task finished at 2025-09-29 16:22:23.716954
+🚀 Scheduled Task started at 2025-09-29 16:32:18.309611
+🏁 Scheduled Task finished at 2025-09-29 16:32:18.310285
+🚀 Scheduled Task started at 2025-09-29 16:37:59.408753
+🏁 Scheduled Task finished at 2025-09-29 16:37:59.412577
+🚀 Scheduled Task started at 2025-09-29 16:42:22.354003
+🏁 Scheduled Task finished at 2025-09-29 16:42:22.354817
+🚀 Scheduled Task started at 2025-09-29 16:47:55.222953
+🏁 Scheduled Task finished at 2025-09-29 16:48:06.592727
+🚀 Scheduled Task started at 2025-09-29 16:56:05.956209
+🏁 Scheduled Task finished at 2025-09-29 16:56:17.693925
+🚀 Scheduled Task started at 2025-09-29 17:02:52.918427
+🏁 Scheduled Task finished at 2025-09-29 17:03:05.045714
+🚀 Scheduled Task started at 2025-09-29 17:12:42.108163
+🏁 Scheduled Task finished at 2025-09-29 17:13:09.834817
+🚀 Scheduled Task started at 2025-09-29 17:22:25.550002
+🏁 Scheduled Task finished at 2025-09-29 17:22:35.729284
+🚀 Scheduled Task started at 2025-09-29 17:37:07.715767
+🏁 Scheduled Task finished at 2025-09-29 17:37:20.024269
+🚀 Scheduled Task started at 2025-09-29 17:42:21.978630
+🏁 Scheduled Task finished at 2025-09-29 17:42:32.865866
+🚀 Scheduled Task started at 2025-09-29 17:57:54.333165
+✅ Scheduled Task finished at 2025-09-29 17:58:07.207362
+🚀 Scheduled Task started at 2025-09-29 18:15:55.604164
+✅ Scheduled Task finished at 2025-09-29 18:16:09.239028
+🚀 Scheduled Task started at 2025-09-29 18:22:17.627618
+✅ Scheduled Task finished at 2025-09-29 18:22:30.346126
+🚀 Scheduled Task started at 2025-09-29 18:32:52.551608
+✅ Scheduled Task finished at 2025-09-29 18:33:02.778976
+🚀 Scheduled Task started at 2025-09-29 18:42:17.405538
+✅ Scheduled Task finished at 2025-09-29 18:42:29.396218
+🚀 Scheduled Task started at 2025-09-29 18:52:17.764491
+✅ Scheduled Task finished at 2025-09-29 18:52:29.300198
+🚀 Scheduled Task started at 2025-09-29 19:02:46.231138
+✅ Scheduled Task finished at 2025-09-29 19:03:14.099536
+🚀 Scheduled Task started at 2025-09-29 19:12:18.459630
+✅ Scheduled Task finished at 2025-09-29 19:12:29.907731
+🚀 Scheduled Task started at 2025-09-29 19:22:17.887695
+✅ Scheduled Task finished at 2025-09-29 19:22:30.907838
+🚀 Scheduled Task started at 2025-09-29 19:32:50.378511
+✅ Scheduled Task finished at 2025-09-29 19:33:02.521565
+🚀 Scheduled Task started at 2025-09-29 19:42:17.481216
+✅ Scheduled Task finished at 2025-09-29 19:42:27.076857
+🚀 Scheduled Task started at 2025-09-29 19:52:17.370597
+✅ Scheduled Task finished at 2025-09-29 19:52:28.737542
+🚀 Scheduled Task started at 2025-09-29 20:02:18.756305
+✅ Scheduled Task finished at 2025-09-29 20:02:29.549291
+🚀 Scheduled Task started at 2025-09-29 20:12:17.389095
+✅ Scheduled Task finished at 2025-09-29 20:12:26.834040
+🚀 Scheduled Task started at 2025-09-29 20:22:17.188075
+✅ Scheduled Task finished at 2025-09-29 20:22:30.638719
+🚀 Scheduled Task started at 2025-09-29 20:32:18.393392
+✅ Scheduled Task finished at 2025-09-29 20:32:30.287368
+🚀 Scheduled Task started at 2025-09-29 20:42:17.464612
+✅ Scheduled Task finished at 2025-09-29 20:42:27.568764
+🚀 Scheduled Task started at 2025-09-29 20:52:17.719096
+✅ Scheduled Task finished at 2025-09-29 20:52:29.596521
+🚀 Scheduled Task started at 2025-09-29 21:02:17.838513
+✅ Scheduled Task finished at 2025-09-29 21:02:30.469295
+🚀 Scheduled Task started at 2025-09-29 21:12:17.375750
+✅ Scheduled Task finished at 2025-09-29 21:12:29.105795
+🚀 Scheduled Task started at 2025-09-29 21:22:17.512661
+✅ Scheduled Task finished at 2025-09-29 21:22:28.262724
+🚀 Scheduled Task started at 2025-09-29 21:32:19.170612
+✅ Scheduled Task finished at 2025-09-29 21:32:30.754259
+🚀 Scheduled Task started at 2025-09-29 21:42:17.558177
+✅ Scheduled Task finished at 2025-09-29 21:42:29.150920
+🚀 Scheduled Task started at 2025-09-29 21:52:17.255072
+✅ Scheduled Task finished at 2025-09-29 21:52:30.757571
+🚀 Scheduled Task started at 2025-09-29 22:02:17.768709
+✅ Scheduled Task finished at 2025-09-29 22:02:29.532637
+🚀 Scheduled Task started at 2025-09-29 22:12:17.277231
+✅ Scheduled Task finished at 2025-09-29 22:12:29.337536
+🚀 Scheduled Task started at 2025-09-29 22:22:17.511667
+✅ Scheduled Task finished at 2025-09-29 22:22:29.537051
+🚀 Scheduled Task started at 2025-09-29 22:32:21.344465
+✅ Scheduled Task finished at 2025-09-29 22:32:35.679067
+🚀 Scheduled Task started at 2025-09-29 22:42:18.378144
+✅ Scheduled Task finished at 2025-09-29 22:42:30.357650
+🚀 Scheduled Task started at 2025-09-29 22:52:21.944509
+✅ Scheduled Task finished at 2025-09-29 22:52:37.803293
+🚀 Scheduled Task started at 2025-09-29 23:02:17.867292
+✅ Scheduled Task finished at 2025-09-29 23:02:29.158727
+🚀 Scheduled Task started at 2025-09-29 23:12:18.381952
+✅ Scheduled Task finished at 2025-09-29 23:12:31.172908
+🚀 Scheduled Task started at 2025-09-29 23:22:18.337890
+✅ Scheduled Task finished at 2025-09-29 23:22:30.546536
+🚀 Scheduled Task started at 2025-09-29 23:32:20.530847
+✅ Scheduled Task finished at 2025-09-29 23:32:34.201334
+🚀 Scheduled Task started at 2025-09-29 23:42:19.150721
+✅ Scheduled Task finished at 2025-09-29 23:42:31.317984
+🚀 Scheduled Task started at 2025-09-30 10:24:06.794048
+✅ Scheduled Task finished at 2025-09-30 10:24:23.668391
+🚀 Scheduled Task started at 2025-09-30 10:32:54.070481
+✅ Scheduled Task finished at 2025-09-30 10:33:19.962723
+🚀 Scheduled Task started at 2025-09-30 10:42:26.693490
+✅ Scheduled Task finished at 2025-09-30 10:42:39.208015
+🚀 Scheduled Task started at 2025-09-30 10:53:02.076175
+✅ Scheduled Task finished at 2025-09-30 10:53:15.065860
+🚀 Scheduled Task started at 2025-09-30 11:03:23.398067
+✅ Scheduled Task finished at 2025-09-30 11:03:48.023197
+🚀 Scheduled Task started at 2025-09-30 11:13:59.717338
+✅ Scheduled Task finished at 2025-09-30 11:14:12.915651
+🚀 Scheduled Task started at 2025-09-30 11:18:39.816706
+✅ Scheduled Task finished at 2025-09-30 11:18:47.412375
+🚀 Scheduled Task started at 2025-09-30 11:22:23.326285
+✅ Scheduled Task finished at 2025-09-30 11:22:34.899331
+🚀 Scheduled Task started at 2025-09-30 11:32:48.944737
+✅ Scheduled Task finished at 2025-09-30 11:32:57.322937
+🚀 Scheduled Task started at 2025-09-30 11:36:20.954873
+✅ Scheduled Task finished at 2025-09-30 11:36:32.469777
+🚀 Scheduled Task started at 2025-09-30 11:41:23.170453
+✅ Scheduled Task finished at 2025-09-30 11:41:34.543374
+🚀 Scheduled Task started at 2025-09-30 11:47:05.603111
+✅ Scheduled Task finished at 2025-09-30 11:47:14.127460
+🚀 Scheduled Task started at 2025-09-30 11:52:20.183881
+✅ Scheduled Task finished at 2025-09-30 11:52:31.870088
+🚀 Scheduled Task started at 2025-09-30 11:59:35.878274
+✅ Scheduled Task finished at 2025-09-30 11:59:48.035221
+🚀 Scheduled Task started at 2025-09-30 12:02:47.638927
+✅ Scheduled Task finished at 2025-09-30 12:02:58.875612
+🚀 Scheduled Task started at 2025-09-30 12:19:27.333753
+✅ Scheduled Task finished at 2025-09-30 12:19:38.215145
+🚀 Scheduled Task started at 2025-09-30 12:23:16.457445
+✅ Scheduled Task finished at 2025-09-30 12:23:27.764692
+🚀 Scheduled Task started at 2025-09-30 12:36:20.941430
+✅ Scheduled Task finished at 2025-09-30 12:36:30.942883
+🚀 Scheduled Task started at 2025-09-30 12:43:15.441923
+✅ Scheduled Task finished at 2025-09-30 12:43:26.466829
+🚀 Scheduled Task started at 2025-09-30 12:50:25.380285
+✅ Scheduled Task finished at 2025-09-30 12:50:35.013967
+🚀 Scheduled Task started at 2025-09-30 13:03:37.513180
+✅ Scheduled Task finished at 2025-09-30 13:03:49.606959
+🚀 Scheduled Task started at 2025-09-30 13:13:14.287225
+✅ Scheduled Task finished at 2025-09-30 13:13:26.767355
+🚀 Scheduled Task started at 2025-09-30 13:23:13.883013
+✅ Scheduled Task finished at 2025-09-30 13:23:26.006783
+🚀 Scheduled Task started at 2025-09-30 13:33:40.576196
+✅ Scheduled Task finished at 2025-09-30 13:33:52.781007
+🚀 Scheduled Task started at 2025-09-30 13:43:13.136895
+✅ Scheduled Task finished at 2025-09-30 13:43:24.676090
+🚀 Scheduled Task started at 2025-09-30 13:53:13.701291
+✅ Scheduled Task finished at 2025-09-30 13:53:26.444991
+🚀 Scheduled Task started at 2025-09-30 14:03:39.292408
+✅ Scheduled Task finished at 2025-09-30 14:03:53.010273
+🚀 Scheduled Task started at 2025-09-30 14:13:13.322162
+✅ Scheduled Task finished at 2025-09-30 14:13:23.851262
+🚀 Scheduled Task started at 2025-09-30 14:23:15.702277
+✅ Scheduled Task finished at 2025-09-30 14:23:28.330131
+🚀 Scheduled Task started at 2025-09-30 14:33:33.266288
+✅ Scheduled Task finished at 2025-09-30 14:33:44.789791
+🚀 Scheduled Task started at 2025-09-30 14:43:20.199001
+✅ Scheduled Task finished at 2025-09-30 14:43:29.970970
+🚀 Scheduled Task started at 2025-09-30 14:53:18.189751
+✅ Scheduled Task finished at 2025-09-30 14:53:30.066829
+🚀 Scheduled Task started at 2025-09-30 15:03:32.616158
+✅ Scheduled Task finished at 2025-09-30 15:03:53.056162
+🚀 Scheduled Task started at 2025-09-30 15:13:14.161590
+✅ Scheduled Task finished at 2025-09-30 15:13:25.181424
+🚀 Scheduled Task started at 2025-09-30 15:19:38.365795
+✅ Scheduled Task finished at 2025-09-30 15:19:48.524470
+🚀 Scheduled Task started at 2025-09-30 15:23:15.228599
+✅ Scheduled Task finished at 2025-09-30 15:23:26.501306
+🚀 Scheduled Task started at 2025-09-30 15:33:36.572386
+✅ Scheduled Task finished at 2025-09-30 15:33:50.555526
+🚀 Scheduled Task started at 2025-09-30 15:43:13.644773
+✅ Scheduled Task finished at 2025-09-30 15:43:25.693484
+🚀 Scheduled Task started at 2025-09-30 15:53:14.294558
+✅ Scheduled Task finished at 2025-09-30 15:53:25.853460
+🚀 Scheduled Task started at 2025-09-30 16:03:59.312811
+✅ Scheduled Task finished at 2025-09-30 16:04:11.839632
+🚀 Scheduled Task started at 2025-09-30 16:13:13.880504
+✅ Scheduled Task finished at 2025-09-30 16:13:26.179313
+🚀 Scheduled Task started at 2025-09-30 16:23:14.044520
+✅ Scheduled Task finished at 2025-09-30 16:23:26.089846
+🚀 Scheduled Task started at 2025-09-30 16:33:24.655088
+✅ Scheduled Task finished at 2025-09-30 16:33:37.200002
+🚀 Scheduled Task started at 2025-09-30 16:43:18.459948
+✅ Scheduled Task finished at 2025-09-30 16:43:32.017406
+🚀 Scheduled Task started at 2025-09-30 16:53:15.241735
+✅ Scheduled Task finished at 2025-09-30 16:53:27.670425
+🚀 Scheduled Task started at 2025-09-30 17:03:22.391387
+✅ Scheduled Task finished at 2025-09-30 17:03:35.679469
+🚀 Scheduled Task started at 2025-09-30 17:13:16.354341
+✅ Scheduled Task finished at 2025-09-30 17:13:28.171557
+🚀 Scheduled Task started at 2025-09-30 17:23:13.799709
+✅ Scheduled Task finished at 2025-09-30 17:23:25.295525
+🚀 Scheduled Task started at 2025-09-30 17:33:15.232991
+✅ Scheduled Task finished at 2025-09-30 17:33:26.278452
+🚀 Scheduled Task started at 2025-09-30 17:43:14.264783
+✅ Scheduled Task finished at 2025-09-30 17:43:26.439024
+🚀 Scheduled Task started at 2025-09-30 17:53:14.402140
+✅ Scheduled Task finished at 2025-09-30 17:53:25.282294
+🚀 Scheduled Task started at 2025-09-30 18:03:45.358217
+✅ Scheduled Task finished at 2025-09-30 18:03:57.311398
+🚀 Scheduled Task started at 2025-09-30 18:13:12.636909
+✅ Scheduled Task finished at 2025-09-30 18:13:22.057850
+🚀 Scheduled Task started at 2025-09-30 18:23:12.351833
+✅ Scheduled Task finished at 2025-09-30 18:23:23.161951
+🚀 Scheduled Task started at 2025-09-30 18:33:13.374023
+✅ Scheduled Task finished at 2025-09-30 18:33:25.251763
+🚀 Scheduled Task started at 2025-09-30 18:43:14.162070
+✅ Scheduled Task finished at 2025-09-30 18:43:23.688871
+🚀 Scheduled Task started at 2025-09-30 18:53:13.320848
+✅ Scheduled Task finished at 2025-09-30 18:53:25.713334
+🚀 Scheduled Task started at 2025-09-30 19:03:42.992573
+✅ Scheduled Task finished at 2025-09-30 19:03:56.104188
+🚀 Scheduled Task started at 2025-09-30 19:13:12.796073
+✅ Scheduled Task finished at 2025-09-30 19:13:25.041783
+🚀 Scheduled Task started at 2025-09-30 19:23:13.207080
+✅ Scheduled Task finished at 2025-09-30 19:23:24.567339
+🚀 Scheduled Task started at 2025-09-30 19:33:32.986240
+✅ Scheduled Task finished at 2025-09-30 19:33:45.389235
+🚀 Scheduled Task started at 2025-09-30 19:43:13.185148
+✅ Scheduled Task finished at 2025-09-30 19:43:25.396260
+🚀 Scheduled Task started at 2025-09-30 19:53:12.376285
+✅ Scheduled Task finished at 2025-09-30 19:53:25.340725
+🚀 Scheduled Task started at 2025-09-30 20:03:13.638943
+✅ Scheduled Task finished at 2025-09-30 20:03:26.536238
+🚀 Scheduled Task started at 2025-09-30 20:13:13.260276
+✅ Scheduled Task finished at 2025-09-30 20:13:23.776088
+🚀 Scheduled Task started at 2025-09-30 20:23:12.193694
+✅ Scheduled Task finished at 2025-09-30 20:23:23.550325
+🚀 Scheduled Task started at 2025-09-30 20:33:13.661089
+✅ Scheduled Task finished at 2025-09-30 20:33:23.730207
+🚀 Scheduled Task started at 2025-09-30 21:33:17.638085
+✅ Scheduled Task finished at 2025-09-30 21:33:32.857990
+🚀 Scheduled Task started at 2025-09-30 21:43:14.826725
+✅ Scheduled Task finished at 2025-09-30 21:43:27.205680
+🚀 Scheduled Task started at 2025-09-30 21:53:12.276190
+✅ Scheduled Task finished at 2025-09-30 21:53:22.337896
+🚀 Scheduled Task started at 2025-09-30 22:03:13.579897
+✅ Scheduled Task finished at 2025-09-30 22:03:28.497387
+🚀 Scheduled Task started at 2025-09-30 22:13:12.242457
+✅ Scheduled Task finished at 2025-09-30 22:13:25.144424
+🚀 Scheduled Task started at 2025-09-30 22:23:13.421784
+✅ Scheduled Task finished at 2025-09-30 22:23:27.022114
+🚀 Scheduled Task started at 2025-09-30 22:33:12.800572
+✅ Scheduled Task finished at 2025-09-30 22:33:24.445962
+🚀 Scheduled Task started at 2025-09-30 22:43:14.492054
+✅ Scheduled Task finished at 2025-09-30 22:43:29.627920
+🚀 Scheduled Task started at 2025-09-30 22:53:16.205057
+✅ Scheduled Task finished at 2025-09-30 22:53:29.273530
+🚀 Scheduled Task started at 2025-09-30 23:03:14.487038
+✅ Scheduled Task finished at 2025-09-30 23:03:26.352673
+🚀 Scheduled Task started at 2025-09-30 23:13:13.975222
+✅ Scheduled Task finished at 2025-09-30 23:13:24.214491
+🚀 Scheduled Task started at 2025-09-30 23:23:13.504967
+✅ Scheduled Task finished at 2025-09-30 23:23:25.990783
+🚀 Scheduled Task started at 2025-09-30 23:33:14.268056
+✅ Scheduled Task finished at 2025-09-30 23:33:26.430320
+🚀 Scheduled Task started at 2025-09-30 23:43:13.824984
+✅ Scheduled Task finished at 2025-09-30 23:43:26.290002
+🚀 Scheduled Task started at 2025-10-01 10:11:04.649402
+✅ Scheduled Task finished at 2025-10-01 10:11:22.920429
+🚀 Scheduled Task started at 2025-10-01 10:23:22.107272
+✅ Scheduled Task finished at 2025-10-01 10:23:35.440178
+🚀 Scheduled Task started at 2025-10-01 10:27:06.339374
+✅ Scheduled Task finished at 2025-10-01 10:27:18.586963
+🚀 Scheduled Task started at 2025-10-01 10:34:01.239882
+✅ Scheduled Task finished at 2025-10-01 10:34:11.440873
+🚀 Scheduled Task started at 2025-10-01 10:43:15.197165
+✅ Scheduled Task finished at 2025-10-01 10:43:26.808147
+🚀 Scheduled Task started at 2025-10-01 10:53:15.913312
+✅ Scheduled Task finished at 2025-10-01 10:53:29.162304
+🚀 Scheduled Task started at 2025-10-01 11:04:02.022104
+✅ Scheduled Task finished at 2025-10-01 11:04:15.740707
+🚀 Scheduled Task started at 2025-10-01 11:13:34.812492
+✅ Scheduled Task finished at 2025-10-01 11:13:47.404716
+🚀 Scheduled Task started at 2025-10-01 11:23:13.948264
+✅ Scheduled Task finished at 2025-10-01 11:23:24.983702
+🚀 Scheduled Task started at 2025-10-01 11:33:37.021101
+✅ Scheduled Task finished at 2025-10-01 11:33:50.147427
+🚀 Scheduled Task started at 2025-10-01 11:43:15.683815
+✅ Scheduled Task finished at 2025-10-01 11:43:27.311827
+🚀 Scheduled Task started at 2025-10-01 11:53:20.390464
+✅ Scheduled Task finished at 2025-10-01 11:53:33.077843
+🚀 Scheduled Task started at 2025-10-01 12:03:50.807812
+✅ Scheduled Task finished at 2025-10-01 12:04:04.765009
+🚀 Scheduled Task started at 2025-10-01 12:13:16.458394
+✅ Scheduled Task finished at 2025-10-01 12:13:27.410349
+🚀 Scheduled Task started at 2025-10-01 12:23:14.713644
+✅ Scheduled Task finished at 2025-10-01 12:23:25.271736
+🚀 Scheduled Task started at 2025-10-01 12:33:49.626686
+✅ Scheduled Task finished at 2025-10-01 12:33:59.731383
+🚀 Scheduled Task started at 2025-10-01 12:43:13.861737
+✅ Scheduled Task finished at 2025-10-01 12:43:25.049670
+🚀 Scheduled Task started at 2025-10-01 12:53:15.132013
+✅ Scheduled Task finished at 2025-10-01 12:53:28.182368
+🚀 Scheduled Task started at 2025-10-01 13:03:55.691583
+✅ Scheduled Task finished at 2025-10-01 13:04:12.979766
+🚀 Scheduled Task started at 2025-10-01 13:10:41.805705
+✅ Scheduled Task finished at 2025-10-01 13:10:55.389885
+🚀 Scheduled Task started at 2025-10-01 13:13:17.750152
+✅ Scheduled Task finished at 2025-10-01 13:13:30.273829
+🚀 Scheduled Task started at 2025-10-01 13:23:14.484724
+✅ Scheduled Task finished at 2025-10-01 13:23:26.749195
+🚀 Scheduled Task started at 2025-10-01 13:32:02.574139
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 13:32:02.824996
+✅ Scheduled Task finished at 2025-10-01 13:32:14.606262
+🚀 Scheduled Task started at 2025-10-01 13:43:14.108738
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 13:43:14.271356
+✅ Scheduled Task finished at 2025-10-01 13:43:26.099736
+🚀 Scheduled Task started at 2025-10-01 13:53:13.415808
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 13:53:13.567057
+✅ Scheduled Task finished at 2025-10-01 13:53:26.519552
+🚀 Scheduled Task started at 2025-10-01 14:03:33.051057
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 14:03:33.209146
+✅ Scheduled Task finished at 2025-10-01 14:03:55.380430
+🚀 Scheduled Task started at 2025-10-01 14:13:13.784873
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 14:13:13.975269
+✅ Scheduled Task finished at 2025-10-01 14:13:26.583449
+🚀 Scheduled Task started at 2025-10-01 14:23:12.761102
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 14:23:12.906442
+✅ Scheduled Task finished at 2025-10-01 14:23:23.277072
+🚀 Scheduled Task started at 2025-10-01 14:33:23.107377
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 14:33:23.283508
+✅ Scheduled Task finished at 2025-10-01 14:33:34.203787
+🚀 Scheduled Task started at 2025-10-01 14:43:12.939727
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 14:43:13.258733
+✅ Scheduled Task finished at 2025-10-01 14:43:25.199320
+🚀 Scheduled Task started at 2025-10-01 14:53:13.850453
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 14:53:14.006705
+✅ Scheduled Task finished at 2025-10-01 14:53:26.126146
+🚀 Scheduled Task started at 2025-10-01 15:03:42.468490
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 15:03:42.621324
+✅ Scheduled Task finished at 2025-10-01 15:03:54.957661
+🚀 Scheduled Task started at 2025-10-01 15:13:13.720989
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 15:13:13.870102
+✅ Scheduled Task finished at 2025-10-01 15:13:25.865282
+🚀 Scheduled Task started at 2025-10-01 16:33:26.537265
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 16:33:26.722303
+✅ Scheduled Task finished at 2025-10-01 16:33:40.973222
+🚀 Scheduled Task started at 2025-10-01 16:43:23.182150
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 16:43:23.503315
+✅ Scheduled Task finished at 2025-10-01 16:43:38.254130
+🚀 Scheduled Task started at 2025-10-01 16:53:15.647511
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 16:53:15.878113
+✅ Scheduled Task finished at 2025-10-01 16:53:28.920333
+🚀 Scheduled Task started at 2025-10-01 17:03:34.891101
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 17:03:35.091471
+✅ Scheduled Task finished at 2025-10-01 17:03:48.777574
+🚀 Scheduled Task started at 2025-10-01 17:13:16.704588
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 17:13:17.154692
+✅ Scheduled Task finished at 2025-10-01 17:13:29.483402
+🚀 Scheduled Task started at 2025-10-01 17:23:18.836445
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 17:23:18.984250
+✅ Scheduled Task finished at 2025-10-01 17:23:31.467201
+🚀 Scheduled Task started at 2025-10-01 17:33:33.196396
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 17:33:33.346354
+✅ Scheduled Task finished at 2025-10-01 17:33:46.325863
+🚀 Scheduled Task started at 2025-10-01 17:43:12.349250
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 17:43:12.504661
+✅ Scheduled Task finished at 2025-10-01 17:43:23.141959
+🚀 Scheduled Task started at 2025-10-01 17:53:14.597948
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 17:53:14.746998
+✅ Scheduled Task finished at 2025-10-01 17:53:26.757301
+🚀 Scheduled Task started at 2025-10-01 18:04:00.417522
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 18:04:00.614280
+✅ Scheduled Task finished at 2025-10-01 18:04:13.144123
+🚀 Scheduled Task started at 2025-10-01 18:13:13.685528
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 18:13:13.838022
+✅ Scheduled Task finished at 2025-10-01 18:13:23.391020
+🚀 Scheduled Task started at 2025-10-01 18:23:14.283858
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 18:23:14.463119
+✅ Scheduled Task finished at 2025-10-01 18:23:26.850426
+🚀 Scheduled Task started at 2025-10-01 18:33:18.535168
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 18:33:18.706534
+✅ Scheduled Task finished at 2025-10-01 18:33:30.385047
+🚀 Scheduled Task started at 2025-10-01 18:43:12.597232
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 18:43:12.765934
+✅ Scheduled Task finished at 2025-10-01 18:43:23.717789
+🚀 Scheduled Task started at 2025-10-01 18:53:13.201806
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 18:53:13.358977
+✅ Scheduled Task finished at 2025-10-01 18:53:25.212023
+🚀 Scheduled Task started at 2025-10-01 19:03:35.709089
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 19:03:35.905766
+✅ Scheduled Task finished at 2025-10-01 19:04:07.290265
+🚀 Scheduled Task started at 2025-10-01 19:13:13.524248
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 19:13:13.717889
+✅ Scheduled Task finished at 2025-10-01 19:13:26.629673
+🚀 Scheduled Task started at 2025-10-01 19:23:13.334806
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 19:23:13.514209
+✅ Scheduled Task finished at 2025-10-01 19:23:25.754619
+🚀 Scheduled Task started at 2025-10-01 19:33:13.725478
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 19:33:13.907706
+✅ Scheduled Task finished at 2025-10-01 19:33:26.559225
+🚀 Scheduled Task started at 2025-10-01 19:43:12.885386
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 19:43:13.059275
+✅ Scheduled Task finished at 2025-10-01 19:43:25.145897
+🚀 Scheduled Task started at 2025-10-01 19:53:12.621763
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 19:53:12.985472
+✅ Scheduled Task finished at 2025-10-01 19:53:24.913927
+🚀 Scheduled Task started at 2025-10-01 20:03:14.836852
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 20:03:15.022157
+✅ Scheduled Task finished at 2025-10-01 20:03:27.626676
+🚀 Scheduled Task started at 2025-10-01 20:13:13.593604
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 20:13:13.780866
+✅ Scheduled Task finished at 2025-10-01 20:13:26.091413
+🚀 Scheduled Task started at 2025-10-01 20:23:13.373521
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 20:23:13.568700
+✅ Scheduled Task finished at 2025-10-01 20:23:25.967388
+🚀 Scheduled Task started at 2025-10-01 20:33:13.665981
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 20:33:13.854319
+✅ Scheduled Task finished at 2025-10-01 20:33:26.378497
+🚀 Scheduled Task started at 2025-10-01 20:43:13.207924
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 20:43:13.369751
+✅ Scheduled Task finished at 2025-10-01 20:43:26.029029
+🚀 Scheduled Task started at 2025-10-01 20:53:13.866947
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 20:53:14.047184
+✅ Scheduled Task finished at 2025-10-01 20:53:25.830852
+🚀 Scheduled Task started at 2025-10-01 21:03:14.510805
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 21:03:14.693452
+✅ Scheduled Task finished at 2025-10-01 21:03:25.686083
+🚀 Scheduled Task started at 2025-10-01 21:13:18.873361
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 21:13:19.052758
+✅ Scheduled Task finished at 2025-10-01 21:13:31.736506
+🚀 Scheduled Task started at 2025-10-01 21:23:13.958651
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 21:23:14.120161
+✅ Scheduled Task finished at 2025-10-01 21:23:25.216866
+🚀 Scheduled Task started at 2025-10-01 21:33:14.908049
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 21:33:15.441984
+✅ Scheduled Task finished at 2025-10-01 21:33:28.774666
+🚀 Scheduled Task started at 2025-10-01 21:43:15.263007
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 21:43:15.501003
+✅ Scheduled Task finished at 2025-10-01 21:43:26.562208
+🚀 Scheduled Task started at 2025-10-01 21:53:14.893098
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 21:53:15.100434
+✅ Scheduled Task finished at 2025-10-01 21:53:28.316377
+🚀 Scheduled Task started at 2025-10-01 22:03:19.327982
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 22:03:20.133893
+✅ Scheduled Task finished at 2025-10-01 22:03:42.829681
+🚀 Scheduled Task started at 2025-10-01 22:13:19.898008
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 22:13:20.501917
+✅ Scheduled Task finished at 2025-10-01 22:13:33.698208
+🚀 Scheduled Task started at 2025-10-01 22:23:15.959676
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 22:23:16.752819
+✅ Scheduled Task finished at 2025-10-01 22:23:30.117064
+🚀 Scheduled Task started at 2025-10-01 22:33:16.415713
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 22:33:16.823295
+✅ Scheduled Task finished at 2025-10-01 22:33:30.249178
+🚀 Scheduled Task started at 2025-10-01 22:43:19.931450
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 22:43:21.227532
+✅ Scheduled Task finished at 2025-10-01 22:43:33.939789
+🚀 Scheduled Task started at 2025-10-01 22:53:34.876678
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 22:53:35.935910
+✅ Scheduled Task finished at 2025-10-01 22:53:50.532702
+🚀 Scheduled Task started at 2025-10-01 23:03:16.375140
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 23:03:17.071894
+✅ Scheduled Task finished at 2025-10-01 23:03:30.193741
+🚀 Scheduled Task started at 2025-10-01 23:13:18.260929
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 23:13:18.853925
+✅ Scheduled Task finished at 2025-10-01 23:13:31.910534
+🚀 Scheduled Task started at 2025-10-01 23:23:13.383684
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 23:23:13.563466
+✅ Scheduled Task finished at 2025-10-01 23:23:25.225341
+🚀 Scheduled Task started at 2025-10-01 23:33:21.762843
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 23:33:22.145350
+✅ Scheduled Task finished at 2025-10-01 23:33:34.902953
+🚀 Scheduled Task started at 2025-10-01 23:43:15.175448
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 23:43:15.380246
+✅ Scheduled Task finished at 2025-10-01 23:43:28.589049
+🚀 Scheduled Task started at 2025-10-01 23:53:16.878688
+✅ Data written 11787 rows to tickers.csv at 2025-10-01 23:53:17.083753
+✅ Scheduled Task finished at 2025-10-01 23:53:28.913735
+🚀 Scheduled Task started at 2025-10-02 00:03:13.878370
+✅ Data written 11787 rows to tickers.csv at 2025-10-02 00:03:14.206400
+✅ Scheduled Task finished at 2025-10-02 00:03:28.197255
+🚀 Scheduled Task started at 2025-10-02 00:13:17.673951
+✅ Data written 11787 rows to tickers.csv at 2025-10-02 00:13:18.786944
+✅ Scheduled Task finished at 2025-10-02 00:13:31.690407
+🚀 Scheduled Task started at 2025-10-02 00:23:13.810197
+✅ Data written 11787 rows to tickers.csv at 2025-10-02 00:23:14.040635
+✅ Scheduled Task finished at 2025-10-02 00:23:24.972825
+🚀 Scheduled Task started at 2025-10-02 11:54:09.021475
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 11:54:10.055425
+✅ Scheduled Task finished at 2025-10-02 11:54:23.578304
+🚀 Scheduled Task started at 2025-10-02 12:04:34.333237
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 12:04:34.542444
+✅ Scheduled Task finished at 2025-10-02 12:04:47.407189
+🚀 Scheduled Task started at 2025-10-02 12:13:13.701388
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 12:13:13.864977
+✅ Scheduled Task finished at 2025-10-02 12:13:25.704966
+🚀 Scheduled Task started at 2025-10-02 12:23:51.517348
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 12:23:51.920260
+✅ Scheduled Task finished at 2025-10-02 12:24:04.835833
+🚀 Scheduled Task started at 2025-10-02 12:33:38.615530
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 12:33:38.783287
+✅ Scheduled Task finished at 2025-10-02 12:33:51.004623
+🚀 Scheduled Task started at 2025-10-02 12:43:13.249407
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 12:43:13.414128
+✅ Scheduled Task finished at 2025-10-02 12:43:25.505865
+🚀 Scheduled Task started at 2025-10-02 12:53:13.716077
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 12:53:13.883402
+✅ Scheduled Task finished at 2025-10-02 12:53:23.079723
+🚀 Scheduled Task started at 2025-10-02 13:03:56.172613
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 13:03:56.360169
+✅ Scheduled Task finished at 2025-10-02 13:04:10.256361
+🚀 Scheduled Task started at 2025-10-02 13:13:13.629509
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 13:13:13.793830
+✅ Scheduled Task finished at 2025-10-02 13:13:26.828248
+🚀 Scheduled Task started at 2025-10-02 13:23:14.308198
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 13:23:14.510341
+✅ Scheduled Task finished at 2025-10-02 13:23:28.024659
+🚀 Scheduled Task started at 2025-10-02 13:33:51.901983
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 13:33:52.067713
+✅ Scheduled Task finished at 2025-10-02 13:34:03.666231
+🚀 Scheduled Task started at 2025-10-02 13:43:13.494283
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 13:43:13.673146
+✅ Scheduled Task finished at 2025-10-02 13:43:26.979518
+🚀 Scheduled Task started at 2025-10-02 13:53:14.424924
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 13:53:14.957752
+✅ Scheduled Task finished at 2025-10-02 13:53:28.525532
+🚀 Scheduled Task started at 2025-10-02 14:04:03.020398
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 14:04:03.194701
+✅ Scheduled Task finished at 2025-10-02 14:04:17.017797
+🚀 Scheduled Task started at 2025-10-02 14:13:13.712127
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 14:13:13.889362
+✅ Scheduled Task finished at 2025-10-02 14:13:25.712875
+🚀 Scheduled Task started at 2025-10-02 14:23:14.384854
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 14:23:14.575965
+✅ Scheduled Task finished at 2025-10-02 14:23:25.733730
+🚀 Scheduled Task started at 2025-10-02 14:34:09.788470
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 14:34:09.973497
+✅ Scheduled Task finished at 2025-10-02 14:34:22.526426
+🚀 Scheduled Task started at 2025-10-02 14:43:13.500841
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 14:43:13.692310
+✅ Scheduled Task finished at 2025-10-02 14:43:26.237359
+🚀 Scheduled Task started at 2025-10-02 22:53:23.899780
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 22:53:24.568290
+✅ Scheduled Task finished at 2025-10-02 22:53:39.932127
+🚀 Scheduled Task started at 2025-10-02 23:03:15.798300
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 23:03:15.994813
+✅ Scheduled Task finished at 2025-10-02 23:03:29.741929
+🚀 Scheduled Task started at 2025-10-02 23:13:22.436511
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 23:13:22.618535
+✅ Scheduled Task finished at 2025-10-02 23:13:35.975188
+🚀 Scheduled Task started at 2025-10-02 23:23:13.180123
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 23:23:13.341641
+✅ Scheduled Task finished at 2025-10-02 23:23:25.110661
+🚀 Scheduled Task started at 2025-10-02 23:33:13.533266
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 23:33:13.694881
+✅ Scheduled Task finished at 2025-10-02 23:33:26.593926
+🚀 Scheduled Task started at 2025-10-02 23:43:16.048789
+✅ Data written 11802 rows to tickers.csv at 2025-10-02 23:43:16.257908
+✅ Scheduled Task finished at 2025-10-02 23:43:29.914529
+🚀 Scheduled Task started at 2025-10-03 11:02:06.877641
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 11:02:07.385115
+✅ Scheduled Task finished at 2025-10-03 11:02:34.117633
+🚀 Scheduled Task started at 2025-10-03 11:13:17.823127
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 11:13:18.212804
+✅ Scheduled Task finished at 2025-10-03 11:13:31.722210
+🚀 Scheduled Task started at 2025-10-03 11:23:21.586978
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 11:23:22.217138
+✅ Scheduled Task finished at 2025-10-03 11:23:35.573509
+🚀 Scheduled Task started at 2025-10-03 11:34:04.620125
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 11:34:04.797343
+✅ Scheduled Task finished at 2025-10-03 11:34:14.984345
+🚀 Scheduled Task started at 2025-10-03 11:43:15.738250
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 11:43:15.903543
+✅ Scheduled Task finished at 2025-10-03 11:43:27.543118
+🚀 Scheduled Task started at 2025-10-03 11:53:13.839132
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 11:53:14.003513
+✅ Scheduled Task finished at 2025-10-03 11:53:22.631521
+🚀 Scheduled Task started at 2025-10-03 12:04:07.779087
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 12:04:08.082558
+✅ Scheduled Task finished at 2025-10-03 12:04:22.163349
+🚀 Scheduled Task started at 2025-10-03 12:13:14.449527
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 12:13:14.635314
+✅ Scheduled Task finished at 2025-10-03 12:13:27.276539
+🚀 Scheduled Task started at 2025-10-03 12:53:15.790865
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 12:53:15.956782
+✅ Scheduled Task finished at 2025-10-03 12:53:29.015898
+🚀 Scheduled Task started at 2025-10-03 13:04:20.104765
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 13:04:20.389093
+✅ Scheduled Task finished at 2025-10-03 13:04:33.506242
+🚀 Scheduled Task started at 2025-10-03 13:13:13.681317
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 13:13:13.851264
+✅ Scheduled Task finished at 2025-10-03 13:13:26.304877
+🚀 Scheduled Task started at 2025-10-03 13:23:15.251554
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 13:23:15.456815
+✅ Scheduled Task finished at 2025-10-03 13:23:30.330695
+🚀 Scheduled Task started at 2025-10-03 13:33:46.076414
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 13:33:46.625782
+✅ Scheduled Task finished at 2025-10-03 13:34:01.145641
+🚀 Scheduled Task started at 2025-10-03 13:43:14.491033
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 13:43:14.663786
+✅ Scheduled Task finished at 2025-10-03 13:43:27.261812
+🚀 Scheduled Task started at 2025-10-03 13:53:14.187121
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 13:53:14.528062
+✅ Scheduled Task finished at 2025-10-03 13:53:26.936092
+🚀 Scheduled Task started at 2025-10-03 14:04:21.576658
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 14:04:22.114776
+✅ Scheduled Task finished at 2025-10-03 14:04:36.645435
+🚀 Scheduled Task started at 2025-10-03 14:13:34.468543
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 14:13:34.928020
+✅ Scheduled Task finished at 2025-10-03 14:13:47.094666
+🚀 Scheduled Task started at 2025-10-03 14:23:14.657894
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 14:23:15.305174
+✅ Scheduled Task finished at 2025-10-03 14:23:28.080973
+🚀 Scheduled Task started at 2025-10-03 14:33:51.440016
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 14:33:52.535081
+✅ Scheduled Task finished at 2025-10-03 14:34:06.602639
+🚀 Scheduled Task started at 2025-10-03 14:43:17.397183
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 14:43:17.592973
+✅ Scheduled Task finished at 2025-10-03 14:43:30.052233
+🚀 Scheduled Task started at 2025-10-03 14:53:15.346454
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 14:53:15.501208
+✅ Scheduled Task finished at 2025-10-03 14:53:27.519373
+🚀 Scheduled Task started at 2025-10-03 15:03:41.098420
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 15:03:41.432888
+✅ Scheduled Task finished at 2025-10-03 15:04:05.991001
+🚀 Scheduled Task started at 2025-10-03 15:13:15.168623
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 15:13:15.419311
+✅ Scheduled Task finished at 2025-10-03 15:13:27.150540
+🚀 Scheduled Task started at 2025-10-03 15:23:14.168036
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 15:23:14.325426
+✅ Scheduled Task finished at 2025-10-03 15:23:25.714372
+🚀 Scheduled Task started at 2025-10-03 15:33:28.640716
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 15:33:29.232558
+✅ Scheduled Task finished at 2025-10-03 15:33:41.234979
+🚀 Scheduled Task started at 2025-10-03 15:43:14.169298
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 15:43:14.610973
+✅ Scheduled Task finished at 2025-10-03 15:43:26.647196
+🚀 Scheduled Task started at 2025-10-03 15:53:15.771278
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 15:53:16.009357
+✅ Scheduled Task finished at 2025-10-03 15:53:28.210736
+🚀 Scheduled Task started at 2025-10-03 16:03:42.239407
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 16:03:42.457382
+✅ Scheduled Task finished at 2025-10-03 16:03:55.653639
+🚀 Scheduled Task started at 2025-10-03 16:13:13.833222
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 16:13:13.986927
+✅ Scheduled Task finished at 2025-10-03 16:13:26.165328
+🚀 Scheduled Task started at 2025-10-03 16:23:13.818124
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 16:23:13.981328
+✅ Scheduled Task finished at 2025-10-03 16:23:23.242067
+🚀 Scheduled Task started at 2025-10-03 16:33:40.494433
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 16:33:40.655485
+✅ Scheduled Task finished at 2025-10-03 16:33:52.646523
+🚀 Scheduled Task started at 2025-10-03 16:43:14.606212
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 16:43:15.055689
+✅ Scheduled Task finished at 2025-10-03 16:43:29.086262
+🚀 Scheduled Task started at 2025-10-03 16:53:12.417867
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 16:53:12.756851
+✅ Scheduled Task finished at 2025-10-03 16:53:25.549625
+🚀 Scheduled Task started at 2025-10-03 17:03:45.790266
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 17:03:45.945486
+✅ Scheduled Task finished at 2025-10-03 17:03:58.847361
+🚀 Scheduled Task started at 2025-10-03 17:13:12.192869
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 17:13:12.345063
+✅ Scheduled Task finished at 2025-10-03 17:13:24.564567
+🚀 Scheduled Task started at 2025-10-03 17:23:14.117276
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 17:23:14.296041
+✅ Scheduled Task finished at 2025-10-03 17:23:23.978189
+🚀 Scheduled Task started at 2025-10-03 17:33:52.845720
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 17:33:53.631998
+✅ Scheduled Task finished at 2025-10-03 17:34:14.484489
+🚀 Scheduled Task started at 2025-10-03 17:43:13.569836
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 17:43:13.753710
+✅ Scheduled Task finished at 2025-10-03 17:43:26.227737
+🚀 Scheduled Task started at 2025-10-03 17:53:13.020485
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 17:53:13.187470
+✅ Scheduled Task finished at 2025-10-03 17:53:24.319252
+🚀 Scheduled Task started at 2025-10-03 18:03:22.341353
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 18:03:22.736485
+✅ Scheduled Task finished at 2025-10-03 18:03:37.262730
+🚀 Scheduled Task started at 2025-10-03 18:13:13.035171
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 18:13:13.377593
+✅ Scheduled Task finished at 2025-10-03 18:13:24.708803
+🚀 Scheduled Task started at 2025-10-03 22:03:42.674449
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 22:03:43.966498
+✅ Scheduled Task finished at 2025-10-03 22:04:21.628387
+🚀 Scheduled Task started at 2025-10-03 22:13:16.468045
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 22:13:18.706467
+✅ Scheduled Task finished at 2025-10-03 22:13:32.053786
+🚀 Scheduled Task started at 2025-10-03 22:23:16.157416
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 22:23:16.311424
+✅ Scheduled Task finished at 2025-10-03 22:23:27.395872
+🚀 Scheduled Task started at 2025-10-03 22:33:27.752825
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 22:33:28.513076
+✅ Scheduled Task finished at 2025-10-03 22:33:42.460799
+🚀 Scheduled Task started at 2025-10-03 22:43:13.454150
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 22:43:13.612683
+✅ Scheduled Task finished at 2025-10-03 22:43:24.777153
+🚀 Scheduled Task started at 2025-10-03 22:53:17.979782
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 22:53:18.571044
+✅ Scheduled Task finished at 2025-10-03 22:53:31.324182
+🚀 Scheduled Task started at 2025-10-03 23:03:18.604654
+✅ Data written 11811 rows to tickers.csv at 2025-10-03 23:03:19.016627
+✅ Scheduled Task finished at 2025-10-03 23:03:30.472995
+🚀 Scheduled Task started at 2025-10-04 12:12:43.529790
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 12:12:44.444467
+✅ Scheduled Task finished at 2025-10-04 12:13:01.571100
+🚀 Scheduled Task started at 2025-10-04 12:23:19.011861
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 12:23:19.168863
+✅ Scheduled Task finished at 2025-10-04 12:23:32.494121
+🚀 Scheduled Task started at 2025-10-04 12:33:13.302334
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 12:33:13.455654
+✅ Scheduled Task finished at 2025-10-04 12:33:24.690344
+🚀 Scheduled Task started at 2025-10-04 12:43:14.084774
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 12:43:14.390531
+✅ Scheduled Task finished at 2025-10-04 12:43:26.477159
+🚀 Scheduled Task started at 2025-10-04 12:53:11.981278
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 12:53:12.151045
+✅ Scheduled Task finished at 2025-10-04 12:53:24.271023
+🚀 Scheduled Task started at 2025-10-04 13:03:14.354531
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 13:03:14.581198
+✅ Scheduled Task finished at 2025-10-04 13:03:28.212862
+🚀 Scheduled Task started at 2025-10-04 13:13:14.525089
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 13:13:14.697749
+✅ Scheduled Task finished at 2025-10-04 13:13:24.411363
+🚀 Scheduled Task started at 2025-10-04 13:23:16.180903
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 13:23:16.334563
+✅ Scheduled Task finished at 2025-10-04 13:23:27.147962
+🚀 Scheduled Task started at 2025-10-04 13:33:13.592779
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 13:33:13.757180
+✅ Scheduled Task finished at 2025-10-04 13:33:25.375312
+🚀 Scheduled Task started at 2025-10-04 13:43:12.297807
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 13:43:12.476689
+✅ Scheduled Task finished at 2025-10-04 13:43:25.144605
+🚀 Scheduled Task started at 2025-10-04 13:53:12.387729
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 13:53:12.870750
+✅ Scheduled Task finished at 2025-10-04 13:53:25.417195
+🚀 Scheduled Task started at 2025-10-04 14:03:12.419158
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 14:03:12.601406
+✅ Scheduled Task finished at 2025-10-04 14:03:24.812331
+🚀 Scheduled Task started at 2025-10-04 14:13:12.781100
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 14:13:12.965274
+✅ Scheduled Task finished at 2025-10-04 14:13:25.085221
+🚀 Scheduled Task started at 2025-10-04 14:23:12.302639
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 14:23:12.467620
+✅ Scheduled Task finished at 2025-10-04 14:23:25.336201
+🚀 Scheduled Task started at 2025-10-04 14:33:12.572288
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 14:33:12.733743
+✅ Scheduled Task finished at 2025-10-04 14:33:25.058153
+🚀 Scheduled Task started at 2025-10-04 14:43:20.313001
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 14:43:20.543577
+✅ Scheduled Task finished at 2025-10-04 14:43:31.515201
+🚀 Scheduled Task started at 2025-10-04 14:53:18.249072
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 14:53:18.494799
+✅ Scheduled Task finished at 2025-10-04 14:53:30.323305
+🚀 Scheduled Task started at 2025-10-04 15:03:20.084864
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 15:03:20.426297
+✅ Scheduled Task finished at 2025-10-04 15:03:31.851438
+🚀 Scheduled Task started at 2025-10-04 15:13:12.281478
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 15:13:12.442247
+✅ Scheduled Task finished at 2025-10-04 15:13:23.812040
+🚀 Scheduled Task started at 2025-10-04 15:23:14.637100
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 15:23:14.806831
+✅ Scheduled Task finished at 2025-10-04 15:23:29.502740
+🚀 Scheduled Task started at 2025-10-04 15:33:22.054849
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 15:33:23.142130
+✅ Scheduled Task finished at 2025-10-04 15:33:36.558796
+🚀 Scheduled Task started at 2025-10-04 15:43:14.261116
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 15:43:14.434982
+✅ Scheduled Task finished at 2025-10-04 15:43:32.595910
+🚀 Scheduled Task started at 2025-10-04 15:53:11.932880
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 15:53:12.543733
+✅ Scheduled Task finished at 2025-10-04 15:53:24.967852
+🚀 Scheduled Task started at 2025-10-04 16:03:13.011455
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 16:03:13.169611
+✅ Scheduled Task finished at 2025-10-04 16:03:24.962688
+🚀 Scheduled Task started at 2025-10-04 16:13:12.630536
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 16:13:12.845578
+✅ Scheduled Task finished at 2025-10-04 16:13:24.531277
+🚀 Scheduled Task started at 2025-10-04 16:23:12.218305
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 16:23:12.372149
+✅ Scheduled Task finished at 2025-10-04 16:23:23.854489
+🚀 Scheduled Task started at 2025-10-04 16:33:12.875331
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 16:33:13.038499
+✅ Scheduled Task finished at 2025-10-04 16:33:21.697568
+🚀 Scheduled Task started at 2025-10-04 16:43:13.092553
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 16:43:13.405816
+✅ Scheduled Task finished at 2025-10-04 16:43:25.437202
+🚀 Scheduled Task started at 2025-10-04 16:53:12.205157
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 16:53:12.414182
+✅ Scheduled Task finished at 2025-10-04 16:53:23.298952
+🚀 Scheduled Task started at 2025-10-04 17:03:13.187505
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 17:03:13.354023
+✅ Scheduled Task finished at 2025-10-04 17:03:26.468728
+🚀 Scheduled Task started at 2025-10-04 17:13:13.178110
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 17:13:13.342485
+✅ Scheduled Task finished at 2025-10-04 17:13:21.855998
+🚀 Scheduled Task started at 2025-10-04 17:23:12.309253
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 17:23:12.469327
+✅ Scheduled Task finished at 2025-10-04 17:23:23.618346
+🚀 Scheduled Task started at 2025-10-04 17:33:13.543940
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 17:33:13.776294
+✅ Scheduled Task finished at 2025-10-04 17:33:26.665106
+🚀 Scheduled Task started at 2025-10-04 17:43:12.273430
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 17:43:12.433115
+✅ Scheduled Task finished at 2025-10-04 17:43:23.485786
+🚀 Scheduled Task started at 2025-10-04 17:53:13.402618
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 17:53:13.557435
+✅ Scheduled Task finished at 2025-10-04 17:53:25.244880
+🚀 Scheduled Task started at 2025-10-04 18:03:13.309740
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 18:03:13.469953
+✅ Scheduled Task finished at 2025-10-04 18:03:27.608538
+🚀 Scheduled Task started at 2025-10-04 18:13:12.988280
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 18:13:13.300929
+✅ Scheduled Task finished at 2025-10-04 18:13:24.886275
+🚀 Scheduled Task started at 2025-10-04 18:23:12.124635
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 18:23:12.289523
+✅ Scheduled Task finished at 2025-10-04 18:23:23.388031
+🚀 Scheduled Task started at 2025-10-04 18:33:16.370518
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 18:33:16.536821
+✅ Scheduled Task finished at 2025-10-04 18:33:36.375304
+🚀 Scheduled Task started at 2025-10-04 18:43:18.467122
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 18:43:18.646177
+✅ Scheduled Task finished at 2025-10-04 18:43:30.302578
+🚀 Scheduled Task started at 2025-10-04 18:53:15.720005
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 18:53:15.984085
+✅ Scheduled Task finished at 2025-10-04 18:53:38.954981
+🚀 Scheduled Task started at 2025-10-04 19:03:14.307955
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 19:03:14.542448
+✅ Scheduled Task finished at 2025-10-04 19:03:27.585419
+🚀 Scheduled Task started at 2025-10-04 19:13:14.456465
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 19:13:14.696826
+✅ Scheduled Task finished at 2025-10-04 19:13:28.122782
+🚀 Scheduled Task started at 2025-10-04 19:23:13.521327
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 19:23:13.959099
+✅ Scheduled Task finished at 2025-10-04 19:23:26.750552
+🚀 Scheduled Task started at 2025-10-04 19:33:14.703477
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 19:33:15.489048
+✅ Scheduled Task finished at 2025-10-04 19:33:28.283628
+🚀 Scheduled Task started at 2025-10-04 19:43:15.959525
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 19:43:16.288592
+✅ Scheduled Task finished at 2025-10-04 19:43:29.506959
+🚀 Scheduled Task started at 2025-10-04 19:53:13.829060
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 19:53:14.016604
+✅ Scheduled Task finished at 2025-10-04 19:53:27.081850
+🚀 Scheduled Task started at 2025-10-04 20:03:13.287218
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 20:03:13.449069
+✅ Scheduled Task finished at 2025-10-04 20:03:25.902930
+🚀 Scheduled Task started at 2025-10-04 20:13:16.403883
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 20:13:16.558611
+✅ Scheduled Task finished at 2025-10-04 20:13:30.140346
+🚀 Scheduled Task started at 2025-10-04 20:23:12.388814
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 20:23:12.539052
+✅ Scheduled Task finished at 2025-10-04 20:23:24.562905
+🚀 Scheduled Task started at 2025-10-04 20:33:13.301466
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 20:33:13.479930
+✅ Scheduled Task finished at 2025-10-04 20:33:24.707082
+🚀 Scheduled Task started at 2025-10-04 20:43:13.485613
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 20:43:13.801112
+✅ Scheduled Task finished at 2025-10-04 20:43:25.954356
+🚀 Scheduled Task started at 2025-10-04 20:53:12.083440
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 20:53:12.247954
+✅ Scheduled Task finished at 2025-10-04 20:53:21.081028
+🚀 Scheduled Task started at 2025-10-04 21:03:13.058597
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 21:03:13.214898
+✅ Scheduled Task finished at 2025-10-04 21:03:24.682410
+🚀 Scheduled Task started at 2025-10-04 21:13:14.026430
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 21:13:14.212943
+✅ Scheduled Task finished at 2025-10-04 21:13:24.671273
+🚀 Scheduled Task started at 2025-10-04 21:23:12.530997
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 21:23:12.697131
+✅ Scheduled Task finished at 2025-10-04 21:23:24.497885
+🚀 Scheduled Task started at 2025-10-04 21:33:17.670603
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 21:33:17.829829
+✅ Scheduled Task finished at 2025-10-04 21:33:27.576361
+🚀 Scheduled Task started at 2025-10-04 21:43:16.816351
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 21:43:16.982000
+✅ Scheduled Task finished at 2025-10-04 21:43:30.356282
+🚀 Scheduled Task started at 2025-10-04 21:53:12.172001
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 21:53:12.367736
+✅ Scheduled Task finished at 2025-10-04 21:53:24.736711
+🚀 Scheduled Task started at 2025-10-04 22:03:16.144245
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 22:03:16.296371
+✅ Scheduled Task finished at 2025-10-04 22:03:30.362955
+🚀 Scheduled Task started at 2025-10-04 22:13:13.379591
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 22:13:13.539949
+✅ Scheduled Task finished at 2025-10-04 22:13:26.194808
+🚀 Scheduled Task started at 2025-10-04 22:23:13.555833
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 22:23:13.715428
+✅ Scheduled Task finished at 2025-10-04 22:23:25.844269
+🚀 Scheduled Task started at 2025-10-04 22:33:20.159300
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 22:33:20.391163
+✅ Scheduled Task finished at 2025-10-04 22:33:32.062868
+🚀 Scheduled Task started at 2025-10-04 22:43:22.179371
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 22:43:22.394118
+✅ Scheduled Task finished at 2025-10-04 22:43:36.682687
+🚀 Scheduled Task started at 2025-10-04 22:53:18.952205
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 22:53:19.335840
+✅ Scheduled Task finished at 2025-10-04 22:53:32.551103
+🚀 Scheduled Task started at 2025-10-04 23:03:21.319492
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 23:03:22.461740
+✅ Scheduled Task finished at 2025-10-04 23:03:38.220616
+🚀 Scheduled Task started at 2025-10-04 23:13:13.318530
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 23:13:13.485057
+✅ Scheduled Task finished at 2025-10-04 23:13:26.232172
+🚀 Scheduled Task started at 2025-10-04 23:23:14.320686
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 23:23:14.472695
+✅ Scheduled Task finished at 2025-10-04 23:23:26.635548
+🚀 Scheduled Task started at 2025-10-04 23:33:13.671916
+✅ Data written 11813 rows to tickers.csv at 2025-10-04 23:33:13.830001
+✅ Scheduled Task finished at 2025-10-04 23:33:24.210900
+🚀 Scheduled Task started at 2025-10-05 11:03:20.177675
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 11:03:21.217791
+✅ Scheduled Task finished at 2025-10-05 11:03:45.317665
+🚀 Scheduled Task started at 2025-10-05 11:13:14.069830
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 11:13:14.258412
+✅ Scheduled Task finished at 2025-10-05 11:13:27.277288
+🚀 Scheduled Task started at 2025-10-05 11:23:20.422491
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 11:23:20.941118
+✅ Scheduled Task finished at 2025-10-05 11:23:34.598853
+🚀 Scheduled Task started at 2025-10-05 11:33:14.719764
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 11:33:14.921849
+✅ Scheduled Task finished at 2025-10-05 11:33:27.137070
+🚀 Scheduled Task started at 2025-10-05 11:43:14.442983
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 11:43:14.613329
+✅ Scheduled Task finished at 2025-10-05 11:43:25.544307
+🚀 Scheduled Task started at 2025-10-05 11:53:22.724821
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 11:53:22.929701
+✅ Scheduled Task finished at 2025-10-05 11:53:36.580992
+🚀 Scheduled Task started at 2025-10-05 12:03:16.574758
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 12:03:16.727095
+✅ Scheduled Task finished at 2025-10-05 12:03:28.367013
+🚀 Scheduled Task started at 2025-10-05 12:13:12.566923
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 12:13:12.724330
+✅ Scheduled Task finished at 2025-10-05 12:13:25.092242
+🚀 Scheduled Task started at 2025-10-05 12:23:13.330237
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 12:23:13.487957
+✅ Scheduled Task finished at 2025-10-05 12:23:25.405271
+🚀 Scheduled Task started at 2025-10-05 12:33:13.276500
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 12:33:13.428938
+✅ Scheduled Task finished at 2025-10-05 12:33:25.035878
+🚀 Scheduled Task started at 2025-10-05 15:03:14.004317
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 15:03:14.164624
+✅ Scheduled Task finished at 2025-10-05 15:03:26.169439
+🚀 Scheduled Task started at 2025-10-05 15:13:12.884069
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 15:13:13.027147
+✅ Scheduled Task finished at 2025-10-05 15:13:25.053085
+🚀 Scheduled Task started at 2025-10-05 15:23:12.312536
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 15:23:12.468934
+✅ Scheduled Task finished at 2025-10-05 15:23:24.525349
+🚀 Scheduled Task started at 2025-10-05 15:33:13.508884
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 15:33:13.681262
+✅ Scheduled Task finished at 2025-10-05 15:33:26.130688
+🚀 Scheduled Task started at 2025-10-05 15:43:16.948809
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 15:43:17.101430
+✅ Scheduled Task finished at 2025-10-05 15:43:28.306908
+🚀 Scheduled Task started at 2025-10-05 15:53:13.456793
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 15:53:13.823139
+✅ Scheduled Task finished at 2025-10-05 15:53:25.761189
+🚀 Scheduled Task started at 2025-10-05 16:03:13.279797
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 16:03:13.435920
+✅ Scheduled Task finished at 2025-10-05 16:03:26.958602
+🚀 Scheduled Task started at 2025-10-05 16:13:13.169056
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 16:13:13.330995
+✅ Scheduled Task finished at 2025-10-05 16:13:23.301232
+🚀 Scheduled Task started at 2025-10-05 16:23:12.292340
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 16:23:12.445369
+✅ Scheduled Task finished at 2025-10-05 16:23:23.816877
+🚀 Scheduled Task started at 2025-10-05 16:33:13.500750
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 16:33:13.657211
+✅ Scheduled Task finished at 2025-10-05 16:33:24.397303
+🚀 Scheduled Task started at 2025-10-05 16:43:14.075184
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 16:43:14.230316
+✅ Scheduled Task finished at 2025-10-05 16:43:26.527319
+🚀 Scheduled Task started at 2025-10-05 16:53:18.911691
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 16:53:19.949844
+✅ Scheduled Task finished at 2025-10-05 16:53:33.708402
+🚀 Scheduled Task started at 2025-10-05 17:03:14.608084
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 17:03:14.773089
+✅ Scheduled Task finished at 2025-10-05 17:03:25.945168
+🚀 Scheduled Task started at 2025-10-05 17:13:13.881731
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 17:13:14.148259
+✅ Scheduled Task finished at 2025-10-05 17:13:26.037251
+🚀 Scheduled Task started at 2025-10-05 17:23:13.613738
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 17:23:13.790814
+✅ Scheduled Task finished at 2025-10-05 17:23:25.938682
+🚀 Scheduled Task started at 2025-10-05 17:33:13.307246
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 17:33:13.457757
+✅ Scheduled Task finished at 2025-10-05 17:33:24.496256
+🚀 Scheduled Task started at 2025-10-05 17:43:13.788148
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 17:43:13.934532
+✅ Scheduled Task finished at 2025-10-05 17:43:25.455578
+🚀 Scheduled Task started at 2025-10-05 17:53:15.492055
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 17:53:15.656855
+✅ Scheduled Task finished at 2025-10-05 17:53:27.918799
+🚀 Scheduled Task started at 2025-10-05 18:03:14.976552
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 18:03:15.122598
+✅ Scheduled Task finished at 2025-10-05 18:03:27.590446
+🚀 Scheduled Task started at 2025-10-05 18:13:15.444704
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 18:13:15.655614
+✅ Scheduled Task finished at 2025-10-05 18:13:26.739277
+🚀 Scheduled Task started at 2025-10-05 18:23:17.037707
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 18:23:17.367712
+✅ Scheduled Task finished at 2025-10-05 18:23:31.369147
+🚀 Scheduled Task started at 2025-10-05 18:33:17.247333
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 18:33:17.454767
+✅ Scheduled Task finished at 2025-10-05 18:33:31.311454
+🚀 Scheduled Task started at 2025-10-05 18:43:16.727750
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 18:43:16.924227
+✅ Scheduled Task finished at 2025-10-05 18:43:27.644906
+🚀 Scheduled Task started at 2025-10-05 18:53:14.117613
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 18:53:14.364766
+✅ Scheduled Task finished at 2025-10-05 18:53:25.396241
+🚀 Scheduled Task started at 2025-10-05 19:03:19.972505
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 19:03:20.163848
+✅ Scheduled Task finished at 2025-10-05 19:03:32.224523
+🚀 Scheduled Task started at 2025-10-05 19:13:13.858009
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 19:13:14.043442
+✅ Scheduled Task finished at 2025-10-05 19:13:26.638862
+🚀 Scheduled Task started at 2025-10-05 19:23:16.810417
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 19:23:17.355694
+✅ Scheduled Task finished at 2025-10-05 19:23:28.470553
+🚀 Scheduled Task started at 2025-10-05 19:33:13.701573
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 19:33:13.897159
+✅ Scheduled Task finished at 2025-10-05 19:33:25.600410
+🚀 Scheduled Task started at 2025-10-05 19:43:14.708313
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 19:43:14.885296
+✅ Scheduled Task finished at 2025-10-05 19:43:27.554883
+🚀 Scheduled Task started at 2025-10-05 19:53:13.638896
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 19:53:13.822091
+✅ Scheduled Task finished at 2025-10-05 19:53:26.082226
+🚀 Scheduled Task started at 2025-10-05 20:03:14.544393
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 20:03:14.717729
+✅ Scheduled Task finished at 2025-10-05 20:03:27.501162
+🚀 Scheduled Task started at 2025-10-05 20:13:13.716223
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 20:13:13.904278
+✅ Scheduled Task finished at 2025-10-05 20:13:26.964881
+🚀 Scheduled Task started at 2025-10-05 20:23:13.754243
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 20:23:13.933472
+✅ Scheduled Task finished at 2025-10-05 20:23:24.969467
+🚀 Scheduled Task started at 2025-10-05 20:33:14.304633
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 20:33:15.072840
+✅ Scheduled Task finished at 2025-10-05 20:33:26.476464
+🚀 Scheduled Task started at 2025-10-05 20:43:14.585345
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 20:43:14.954313
+✅ Scheduled Task finished at 2025-10-05 20:43:24.874774
+🚀 Scheduled Task started at 2025-10-05 20:53:13.290038
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 20:53:13.461557
+✅ Scheduled Task finished at 2025-10-05 20:53:24.188048
+🚀 Scheduled Task started at 2025-10-05 21:03:14.940081
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 21:03:15.136577
+✅ Scheduled Task finished at 2025-10-05 21:03:28.264646
+🚀 Scheduled Task started at 2025-10-05 21:13:13.572978
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 21:13:13.775658
+✅ Scheduled Task finished at 2025-10-05 21:13:26.594880
+🚀 Scheduled Task started at 2025-10-05 21:23:13.598489
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 21:23:13.781136
+✅ Scheduled Task finished at 2025-10-05 21:23:25.287061
+🚀 Scheduled Task started at 2025-10-05 21:33:14.014511
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 21:33:14.219188
+✅ Scheduled Task finished at 2025-10-05 21:33:25.953737
+🚀 Scheduled Task started at 2025-10-05 21:43:13.013739
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 21:43:13.801670
+✅ Scheduled Task finished at 2025-10-05 21:43:26.327422
+🚀 Scheduled Task started at 2025-10-05 21:53:13.694381
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 21:53:13.873024
+✅ Scheduled Task finished at 2025-10-05 21:53:22.288755
+🚀 Scheduled Task started at 2025-10-05 22:03:14.862236
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 22:03:15.066807
+✅ Scheduled Task finished at 2025-10-05 22:03:27.631479
+🚀 Scheduled Task started at 2025-10-05 22:13:13.823809
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 22:13:14.024319
+✅ Scheduled Task finished at 2025-10-05 22:13:22.795557
+🚀 Scheduled Task started at 2025-10-05 22:23:13.959718
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 22:23:14.141459
+✅ Scheduled Task finished at 2025-10-05 22:23:28.016581
+🚀 Scheduled Task started at 2025-10-05 22:33:18.286751
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 22:33:18.476808
+✅ Scheduled Task finished at 2025-10-05 22:33:31.882945
+🚀 Scheduled Task started at 2025-10-05 22:43:14.131381
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 22:43:14.318903
+✅ Scheduled Task finished at 2025-10-05 22:43:26.682431
+🚀 Scheduled Task started at 2025-10-05 22:53:14.692019
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 22:53:14.872740
+✅ Scheduled Task finished at 2025-10-05 22:53:26.822331
+🚀 Scheduled Task started at 2025-10-05 23:03:14.423397
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 23:03:14.604385
+✅ Scheduled Task finished at 2025-10-05 23:03:26.782321
+🚀 Scheduled Task started at 2025-10-05 23:13:13.722285
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 23:13:13.913100
+✅ Scheduled Task finished at 2025-10-05 23:13:26.102483
+🚀 Scheduled Task started at 2025-10-05 23:23:14.380629
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 23:23:14.605577
+✅ Scheduled Task finished at 2025-10-05 23:23:26.835045
+🚀 Scheduled Task started at 2025-10-05 23:33:17.268947
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 23:33:17.835776
+✅ Scheduled Task finished at 2025-10-05 23:33:30.836342
+🚀 Scheduled Task started at 2025-10-05 23:43:16.424075
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 23:43:16.687575
+✅ Scheduled Task finished at 2025-10-05 23:43:30.021543
+🚀 Scheduled Task started at 2025-10-05 23:53:17.953884
+✅ Data written 11813 rows to tickers.csv at 2025-10-05 23:53:18.281130
+✅ Scheduled Task finished at 2025-10-05 23:53:29.003511
+🚀 Scheduled Task started at 2025-10-06 00:03:20.899287
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 00:03:21.140590
+✅ Scheduled Task finished at 2025-10-06 00:03:33.214881
+🚀 Scheduled Task started at 2025-10-06 00:13:14.675175
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 00:13:14.902963
+✅ Scheduled Task finished at 2025-10-06 00:13:28.328698
+🚀 Scheduled Task started at 2025-10-06 00:23:14.037407
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 00:23:14.256188
+✅ Scheduled Task finished at 2025-10-06 00:23:25.788820
+🚀 Scheduled Task started at 2025-10-06 09:56:54.589746
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 09:56:56.530393
+✅ Scheduled Task finished at 2025-10-06 09:57:14.188928
+🚀 Scheduled Task started at 2025-10-06 10:04:09.102885
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 10:04:09.668757
+✅ Scheduled Task finished at 2025-10-06 10:04:22.137114
+🚀 Scheduled Task started at 2025-10-06 10:13:48.729849
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 10:13:48.920625
+✅ Scheduled Task finished at 2025-10-06 10:14:02.042559
+🚀 Scheduled Task started at 2025-10-06 10:23:24.044967
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 10:23:24.227605
+✅ Scheduled Task finished at 2025-10-06 10:23:39.413252
+🚀 Scheduled Task started at 2025-10-06 10:34:00.869322
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 10:34:01.317123
+✅ Scheduled Task finished at 2025-10-06 10:34:11.273292
+🚀 Scheduled Task started at 2025-10-06 10:43:16.541276
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 10:43:17.276892
+✅ Scheduled Task finished at 2025-10-06 10:43:28.780929
+🚀 Scheduled Task started at 2025-10-06 10:53:30.913106
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 10:53:31.239504
+✅ Scheduled Task finished at 2025-10-06 10:53:43.321197
+🚀 Scheduled Task started at 2025-10-06 11:04:03.516334
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 11:04:03.698334
+✅ Scheduled Task finished at 2025-10-06 11:05:50.076519
+🚀 Scheduled Task started at 2025-10-06 11:13:15.964391
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 11:13:16.155866
+✅ Scheduled Task finished at 2025-10-06 11:13:26.627905
+🚀 Scheduled Task started at 2025-10-06 11:23:16.092741
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 11:23:16.278130
+✅ Scheduled Task finished at 2025-10-06 11:23:28.242967
+🚀 Scheduled Task started at 2025-10-06 11:33:46.869201
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 11:33:47.245205
+✅ Scheduled Task finished at 2025-10-06 11:33:59.147217
+🚀 Scheduled Task started at 2025-10-06 11:43:39.268108
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 11:43:40.340471
+✅ Scheduled Task finished at 2025-10-06 11:43:54.490951
+🚀 Scheduled Task started at 2025-10-06 11:53:16.481158
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 11:53:16.663820
+✅ Scheduled Task finished at 2025-10-06 11:53:26.500121
+🚀 Scheduled Task started at 2025-10-06 12:04:18.514550
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 12:04:20.362685
+✅ Scheduled Task finished at 2025-10-06 12:04:40.717818
+🚀 Scheduled Task started at 2025-10-06 12:13:28.082583
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 12:13:28.295417
+✅ Scheduled Task finished at 2025-10-06 12:13:42.350678
+🚀 Scheduled Task started at 2025-10-06 12:23:18.970773
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 12:23:19.394537
+✅ Scheduled Task finished at 2025-10-06 12:23:31.647493
+🚀 Scheduled Task started at 2025-10-06 12:33:33.916559
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 12:33:34.121913
+✅ Scheduled Task finished at 2025-10-06 12:33:47.465796
+🚀 Scheduled Task started at 2025-10-06 12:43:15.564517
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 12:43:17.243810
+✅ Scheduled Task finished at 2025-10-06 12:43:31.603928
+🚀 Scheduled Task started at 2025-10-06 12:53:14.523561
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 12:53:14.722262
+✅ Scheduled Task finished at 2025-10-06 12:53:27.590520
+🚀 Scheduled Task started at 2025-10-06 13:03:54.131581
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 13:03:54.810331
+✅ Scheduled Task finished at 2025-10-06 13:04:09.260799
+🚀 Scheduled Task started at 2025-10-06 13:13:15.063672
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 13:13:15.455563
+✅ Scheduled Task finished at 2025-10-06 13:13:36.151060
+🚀 Scheduled Task started at 2025-10-06 13:23:24.776704
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 13:23:24.990305
+✅ Scheduled Task finished at 2025-10-06 13:23:36.483920
+🚀 Scheduled Task started at 2025-10-06 13:33:44.548768
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 13:33:44.744106
+✅ Scheduled Task finished at 2025-10-06 13:33:56.536484
+🚀 Scheduled Task started at 2025-10-06 13:43:14.156360
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 13:43:14.326704
+✅ Scheduled Task finished at 2025-10-06 13:43:25.883792
+🚀 Scheduled Task started at 2025-10-06 13:53:13.913869
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 13:53:14.641189
+✅ Scheduled Task finished at 2025-10-06 13:53:26.107718
+🚀 Scheduled Task started at 2025-10-06 14:03:28.345962
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 14:03:28.719052
+✅ Scheduled Task finished at 2025-10-06 14:04:12.713331
+🚀 Scheduled Task started at 2025-10-06 14:13:14.671741
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 14:13:14.869780
+✅ Scheduled Task finished at 2025-10-06 14:13:27.040364
+🚀 Scheduled Task started at 2025-10-06 14:23:15.865775
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 14:23:16.060846
+✅ Scheduled Task finished at 2025-10-06 14:23:27.299887
+🚀 Scheduled Task started at 2025-10-06 14:33:34.985308
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 14:33:35.183911
+✅ Scheduled Task finished at 2025-10-06 14:33:48.317413
+🚀 Scheduled Task started at 2025-10-06 14:43:14.086099
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 14:43:14.952071
+✅ Scheduled Task finished at 2025-10-06 14:43:27.757632
+🚀 Scheduled Task started at 2025-10-06 14:53:14.411655
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 14:53:14.594120
+✅ Scheduled Task finished at 2025-10-06 14:53:24.505708
+🚀 Scheduled Task started at 2025-10-06 15:03:39.507902
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 15:03:39.665979
+✅ Scheduled Task finished at 2025-10-06 15:03:59.497094
+🚀 Scheduled Task started at 2025-10-06 15:13:14.518578
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 15:13:14.665343
+✅ Scheduled Task finished at 2025-10-06 15:13:27.023045
+🚀 Scheduled Task started at 2025-10-06 15:23:15.578279
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 15:23:15.862765
+✅ Scheduled Task finished at 2025-10-06 15:23:32.211743
+🚀 Scheduled Task started at 2025-10-06 15:33:26.555042
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 15:33:26.743981
+✅ Scheduled Task finished at 2025-10-06 15:33:42.249477
+🚀 Scheduled Task started at 2025-10-06 15:43:14.049257
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 15:43:14.236615
+✅ Scheduled Task finished at 2025-10-06 15:43:23.772838
+🚀 Scheduled Task started at 2025-10-06 15:53:19.488889
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 15:53:19.675017
+✅ Scheduled Task finished at 2025-10-06 15:53:31.729028
+🚀 Scheduled Task started at 2025-10-06 16:03:26.959806
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 16:03:27.151036
+✅ Scheduled Task finished at 2025-10-06 16:03:38.820624
+🚀 Scheduled Task started at 2025-10-06 16:13:14.058568
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 16:13:14.241552
+✅ Scheduled Task finished at 2025-10-06 16:13:26.968317
+🚀 Scheduled Task started at 2025-10-06 16:23:13.737201
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 16:23:14.066437
+✅ Scheduled Task finished at 2025-10-06 16:23:27.011795
+🚀 Scheduled Task started at 2025-10-06 16:33:33.743234
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 16:33:33.937283
+✅ Scheduled Task finished at 2025-10-06 16:33:46.830718
+🚀 Scheduled Task started at 2025-10-06 16:43:14.110663
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 16:43:14.311351
+✅ Scheduled Task finished at 2025-10-06 16:43:25.422694
+🚀 Scheduled Task started at 2025-10-06 16:53:13.576398
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 16:53:14.328871
+✅ Scheduled Task finished at 2025-10-06 16:53:26.386308
+🚀 Scheduled Task started at 2025-10-06 17:03:51.811417
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 17:03:52.003627
+✅ Scheduled Task finished at 2025-10-06 17:04:06.432744
+🚀 Scheduled Task started at 2025-10-06 17:13:17.509615
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 17:13:17.693933
+✅ Scheduled Task finished at 2025-10-06 17:13:31.378613
+🚀 Scheduled Task started at 2025-10-06 17:23:13.859519
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 17:23:14.046723
+✅ Scheduled Task finished at 2025-10-06 17:23:26.065006
+🚀 Scheduled Task started at 2025-10-06 17:33:19.545389
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 17:33:20.137767
+✅ Scheduled Task finished at 2025-10-06 17:33:33.746654
+🚀 Scheduled Task started at 2025-10-06 17:43:13.667001
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 17:43:13.856581
+✅ Scheduled Task finished at 2025-10-06 17:43:24.026547
+🚀 Scheduled Task started at 2025-10-06 17:53:15.830950
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 17:53:16.813360
+✅ Scheduled Task finished at 2025-10-06 17:53:30.124670
+🚀 Scheduled Task started at 2025-10-06 18:03:22.618239
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 18:03:22.818502
+✅ Scheduled Task finished at 2025-10-06 18:04:00.077581
+🚀 Scheduled Task started at 2025-10-06 18:13:13.622644
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 18:13:13.814625
+✅ Scheduled Task finished at 2025-10-06 18:13:25.537658
+🚀 Scheduled Task started at 2025-10-06 18:23:13.829131
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 18:23:14.006936
+✅ Scheduled Task finished at 2025-10-06 18:23:26.342366
+🚀 Scheduled Task started at 2025-10-06 18:33:29.765111
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 18:33:29.958903
+✅ Scheduled Task finished at 2025-10-06 18:33:42.949900
+🚀 Scheduled Task started at 2025-10-06 18:43:13.854879
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 18:43:14.044198
+✅ Scheduled Task finished at 2025-10-06 18:43:25.322501
+🚀 Scheduled Task started at 2025-10-06 18:53:13.224538
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 18:53:13.409527
+✅ Scheduled Task finished at 2025-10-06 18:53:24.135276
+🚀 Scheduled Task started at 2025-10-06 19:03:17.546352
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 19:03:17.719661
+✅ Scheduled Task finished at 2025-10-06 19:03:27.656445
+🚀 Scheduled Task started at 2025-10-06 19:13:13.905453
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 19:13:14.086314
+✅ Scheduled Task finished at 2025-10-06 19:13:25.835754
+🚀 Scheduled Task started at 2025-10-06 19:23:22.675716
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 19:23:22.870554
+✅ Scheduled Task finished at 2025-10-06 19:23:34.213886
+🚀 Scheduled Task started at 2025-10-06 19:33:20.750313
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 19:33:20.963792
+✅ Scheduled Task finished at 2025-10-06 19:33:33.720901
+🚀 Scheduled Task started at 2025-10-06 19:43:13.888371
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 19:43:14.080777
+✅ Scheduled Task finished at 2025-10-06 19:43:26.403324
+🚀 Scheduled Task started at 2025-10-06 19:53:16.898548
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 19:53:17.076946
+✅ Scheduled Task finished at 2025-10-06 19:53:28.111422
+🚀 Scheduled Task started at 2025-10-06 20:03:14.948746
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 20:03:15.126648
+✅ Scheduled Task finished at 2025-10-06 20:03:24.504682
+🚀 Scheduled Task started at 2025-10-06 20:13:14.284800
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 20:13:14.466489
+✅ Scheduled Task finished at 2025-10-06 20:13:25.459185
+🚀 Scheduled Task started at 2025-10-06 20:23:14.105690
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 20:23:14.536012
+✅ Scheduled Task finished at 2025-10-06 20:23:27.278757
+🚀 Scheduled Task started at 2025-10-06 20:33:21.742610
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 20:33:21.998333
+✅ Scheduled Task finished at 2025-10-06 20:33:43.468863
+🚀 Scheduled Task started at 2025-10-06 20:43:15.816230
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 20:43:16.005102
+✅ Scheduled Task finished at 2025-10-06 20:43:27.971605
+🚀 Scheduled Task started at 2025-10-06 20:53:13.337726
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 20:53:13.745633
+✅ Scheduled Task finished at 2025-10-06 20:53:26.089236
+🚀 Scheduled Task started at 2025-10-06 21:03:18.221900
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 21:03:18.409861
+✅ Scheduled Task finished at 2025-10-06 21:03:31.706719
+🚀 Scheduled Task started at 2025-10-06 21:13:16.618996
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 21:13:16.848946
+✅ Scheduled Task finished at 2025-10-06 21:13:29.972091
+🚀 Scheduled Task started at 2025-10-06 21:23:25.352895
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 21:23:26.626203
+✅ Scheduled Task finished at 2025-10-06 21:23:39.250619
+🚀 Scheduled Task started at 2025-10-06 21:33:21.457334
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 21:33:21.674841
+✅ Scheduled Task finished at 2025-10-06 21:33:36.125296
+🚀 Scheduled Task started at 2025-10-06 21:43:13.439455
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 21:43:13.622173
+✅ Scheduled Task finished at 2025-10-06 21:43:25.629681
+🚀 Scheduled Task started at 2025-10-06 21:53:13.983610
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 21:53:14.182917
+✅ Scheduled Task finished at 2025-10-06 21:53:26.351668
+🚀 Scheduled Task started at 2025-10-06 22:03:16.675628
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 22:03:16.879726
+✅ Scheduled Task finished at 2025-10-06 22:03:35.534572
+🚀 Scheduled Task started at 2025-10-06 22:13:13.728140
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 22:13:13.932046
+✅ Scheduled Task finished at 2025-10-06 22:13:24.804511
+🚀 Scheduled Task started at 2025-10-06 22:23:16.274894
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 22:23:16.448947
+✅ Scheduled Task finished at 2025-10-06 22:23:29.787371
+🚀 Scheduled Task started at 2025-10-06 22:33:13.949203
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 22:33:14.698692
+✅ Scheduled Task finished at 2025-10-06 22:33:27.077777
+🚀 Scheduled Task started at 2025-10-06 22:43:16.064039
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 22:43:16.235366
+✅ Scheduled Task finished at 2025-10-06 22:43:28.399402
+🚀 Scheduled Task started at 2025-10-06 22:53:15.704799
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 22:53:15.879725
+✅ Scheduled Task finished at 2025-10-06 22:53:29.789453
+🚀 Scheduled Task started at 2025-10-06 23:03:15.717242
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 23:03:15.901480
+✅ Scheduled Task finished at 2025-10-06 23:03:29.419070
+🚀 Scheduled Task started at 2025-10-06 23:13:14.617711
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 23:13:14.792986
+✅ Scheduled Task finished at 2025-10-06 23:13:26.947565
+🚀 Scheduled Task started at 2025-10-06 23:23:14.858434
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 23:23:15.057633
+✅ Scheduled Task finished at 2025-10-06 23:23:27.866437
+🚀 Scheduled Task started at 2025-10-06 23:33:17.181409
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 23:33:17.498995
+✅ Scheduled Task finished at 2025-10-06 23:33:30.371427
+🚀 Scheduled Task started at 2025-10-06 23:43:15.954594
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 23:43:16.128067
+✅ Scheduled Task finished at 2025-10-06 23:43:26.386742
+🚀 Scheduled Task started at 2025-10-06 23:53:16.892623
+✅ Data written 11813 rows to tickers.csv at 2025-10-06 23:53:17.103503
+✅ Scheduled Task finished at 2025-10-06 23:53:27.021150
+🚀 Scheduled Task started at 2025-10-07 00:03:19.034808
+✅ Data written 11813 rows to tickers.csv at 2025-10-07 00:03:19.242762
+✅ Scheduled Task finished at 2025-10-07 00:03:32.678452
+🚀 Scheduled Task started at 2025-10-07 09:16:59.207848
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 09:17:01.116211
+✅ Scheduled Task finished at 2025-10-07 09:17:16.973460
+🚀 Scheduled Task started at 2025-10-07 09:23:17.352564
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 09:23:17.538949
+✅ Scheduled Task finished at 2025-10-07 09:23:32.700353
+🚀 Scheduled Task started at 2025-10-07 09:34:15.796864
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 09:34:16.212397
+✅ Scheduled Task finished at 2025-10-07 09:34:29.551865
+🚀 Scheduled Task started at 2025-10-07 09:43:23.889424
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 09:43:24.141245
+✅ Scheduled Task finished at 2025-10-07 09:43:39.426557
+🚀 Scheduled Task started at 2025-10-07 09:53:19.946794
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 09:53:21.330563
+✅ Scheduled Task finished at 2025-10-07 09:53:34.431754
+🚀 Scheduled Task started at 2025-10-07 10:04:12.746386
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 10:04:13.441444
+✅ Scheduled Task finished at 2025-10-07 10:04:41.807643
+🚀 Scheduled Task started at 2025-10-07 10:13:27.998728
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 10:13:28.469005
+✅ Scheduled Task finished at 2025-10-07 10:13:43.225586
+🚀 Scheduled Task started at 2025-10-07 10:23:20.316562
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 10:23:20.522590
+✅ Scheduled Task finished at 2025-10-07 10:23:33.558510
+🚀 Scheduled Task started at 2025-10-07 10:34:04.540593
+✅ Data written 11812 rows to tickers.csv at 2025-10-07 10:34:04.729640
+✅ Scheduled Task finished at 2025-10-07 10:34:21.222760
